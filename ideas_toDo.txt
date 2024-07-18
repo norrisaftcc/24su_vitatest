@@ -1,0 +1,28 @@
+Start off with a simpler answer, maybe remove the part that gives example code (sometimes it gives the answer)
+	-Rewording the "corrector"
+	
+
+add line numbers to the pane that shows the code when uploaded
+
+
+Right now, you have to refresh the page to load the content of a newly uploaded file
+It will show up on the front-end, but the new content is not uploaded on the back-end
+
+Add an agent that ensures we comply with FTCC's code of conduct - Need the actual requirements from the handbook
+Allow file to reload content automatically
+
+
+Add a drop down box with the CTI-110 programming concepts that they can choose from
+
+Move the blue buttons above the code snippet
+
+Sometimes when a message is sent from the (human) user, it appears twice. Remove that and maintain functionality
+
+
+
+
+
+
+
+
+
